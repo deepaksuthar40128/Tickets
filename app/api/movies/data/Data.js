@@ -8,7 +8,7 @@ const Data = [
         year: 2021,
         language: 'Hindi',
         time: '4m 43sec',
-        link: '/song_video/song1.mp4'
+        link: 'https://mydbms.s3.us-west-2.amazonaws.com/song1.mp4'
     },
     {
         id: 2,
@@ -19,7 +19,7 @@ const Data = [
         year: 2023,
         language: 'Punjabi',
         time: '4m 51sec',
-        link: '/song_video/song2.mp4'
+        link: 'https://mydbms.s3.us-west-2.amazonaws.com/song2.mp4'
     },
     {
         id: 3,
@@ -30,7 +30,7 @@ const Data = [
         year: 2024,
         language: 'Haryanvi',
         time: '2m 54sec',
-        link: '/song_video/song4.mp4'
+        link: 'https://mydbms.s3.us-west-2.amazonaws.com/song4.mp4'
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ const Data = [
         year: 2024,
         language: 'Hindi',
         time: '4m 15sec',
-        link: '/song_video/song3.mp4'
+        link: 'https://mydbms.s3.us-west-2.amazonaws.com/song3.mp4'
     }
 ]
 
